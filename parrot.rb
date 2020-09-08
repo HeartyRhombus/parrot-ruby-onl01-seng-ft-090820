@@ -1,4 +1,4 @@
-def parrot (string="Squawk!")
-  puts "#{string}";
-  return string
+def parrot (sound="Squawk!")
+  puts "#{sound}";
+  return sound
 end
